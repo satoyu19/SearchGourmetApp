@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="radius_items">
+        <item id="1">300m</item>
+        <item id="2">500m</item>
+        <item id="3">1000m</item>
+        <item id="4">2000m</item>
+        <item id="5">3000m</item>
+    </array>
+</resources>
